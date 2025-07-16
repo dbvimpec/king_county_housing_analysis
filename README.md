@@ -8,6 +8,7 @@
  - Loading King County Housing data set using kc_house_data.csv file
 
 ## Data Preparation
+![top_10_feats_price_prediction](https://github.com/user-attachments/assets/9642c911-a05f-4440-a527-e436c0e4f0b1)
 
 - Creating a copy of the DataFrame for cleaning and preprocessing 
 
