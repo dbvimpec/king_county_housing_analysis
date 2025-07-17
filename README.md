@@ -26,6 +26,7 @@ For this project, we used the King County House Sales dataset calculations to ad
 #### Best Model For Task
 
 Random Forest was the best model with the highest R²: (0.697), Lowest MAE (128,796) and Lowest RMSE (198,720)
+![comparison_dataframe](https://github.com/user-attachments/assets/94755ff9-67d3-407d-ad71-3a80a6ff1e00)
 
 # Conclusion
 
