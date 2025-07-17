@@ -23,6 +23,10 @@ For this project, we used the King County House Sales dataset calculations to ad
 #### Renovation impact on price
 ![renov_impact_on_price](https://github.com/user-attachments/assets/1ea4e26f-b284-4208-ba34-87ddef9e8b22)
 
+#### Best Model For Task
+
+Random Forest was the best model with the highest R²: (0.697), Lowest MAE (128,796) and Lowest RMSE (198,720)
+
 # Conclusion
 
 Construction grade is the primary factor affecting home value. Moving from Grade 7 to Grade 8 typically adds $140,392 in home value (34.9% increase). Grade 8 homes seem to have the best value retention
